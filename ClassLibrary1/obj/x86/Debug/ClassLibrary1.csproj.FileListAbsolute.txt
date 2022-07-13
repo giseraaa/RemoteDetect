@@ -1,0 +1,6 @@
+D:\桌面\南方测绘\A1\软件源码\ClassLibrary1\bin\x86\Debug\ClassLibrary1.dll
+D:\桌面\南方测绘\A1\软件源码\ClassLibrary1\bin\x86\Debug\ClassLibrary1.pdb
+D:\桌面\南方测绘\A1\软件源码\ClassLibrary1\obj\x86\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\桌面\南方测绘\A1\软件源码\ClassLibrary1\obj\x86\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\桌面\南方测绘\A1\软件源码\ClassLibrary1\obj\x86\Debug\ClassLibrary1.dll
+D:\桌面\南方测绘\A1\软件源码\ClassLibrary1\obj\x86\Debug\ClassLibrary1.pdb
